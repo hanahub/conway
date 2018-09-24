@@ -26,7 +26,8 @@ npm run build
 
 As a test runner, I used karma(http://karma-runner.github.io/).
 
-First you need to install karma-cli.
+First you need to install karma-cli so you can run 'karma' command on console.
+
 $ npm install -g karma-cli
 
 And then you can start karma using “karma start” and run tests using the “karma run” command.
