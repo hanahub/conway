@@ -40,5 +40,6 @@ karma start
 ```
 
 ```
-karma run - this should be run on a new console.
+karma run
 ```
+(this should be run on a new console)
