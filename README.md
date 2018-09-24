@@ -31,11 +31,6 @@ First you need to install karma-cli so you can run 'karma' command on console an
 
 ```
 npm install -g karma-cli
-
-npm install karma --save-dev
-
-npm install karma-chrome-launcher --save-dev
-
 ```
 
 And then you can start karma using “karma start” and run tests using the “karma run” command.
