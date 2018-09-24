@@ -54,4 +54,4 @@ karma run
 
 ![Conway](https://github.com/vmarinov2013/conway/blob/master/run.png)
 
-![Test](https://github.com/vmarinov2013/conway/test1.png)
+![Test](https://github.com/vmarinov2013/conway/blob/master/test1.png)
