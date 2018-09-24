@@ -52,6 +52,6 @@ karma run
 
 ### Screens
 
-![Conway](https://github.com/vmarinov2013/conway/run.png)
+![Conway](https://github.com/vmarinov2013/conway/blob/master/run.png)
 
 ![Test](https://github.com/vmarinov2013/conway/test1.png)
