@@ -1,0 +1,15 @@
+$body-color: blue;
+
+body {
+  color: $body-color;
+}
+
+div.conway {
+  overflow: hidden;
+  font-family: courier;
+  float: left;
+  width: 500px;
+  height: 288px;
+  background-color: #000;
+  font-size: 10px;
+}
